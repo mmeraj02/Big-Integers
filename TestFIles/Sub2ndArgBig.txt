@@ -1,0 +1,4 @@
+156
+-967821538
+-967821382
+The algorithm works for the case where 2nd argument is bigger in absolute value. 

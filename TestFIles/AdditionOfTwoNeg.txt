@@ -1,0 +1,4 @@
+-12649875321981
+-108312974321
+-12758188296302
+The algorithm works for two unbounded negative integers.

@@ -1,0 +1,4 @@
+0
+-0
+0
+The algorithm works in this case. 

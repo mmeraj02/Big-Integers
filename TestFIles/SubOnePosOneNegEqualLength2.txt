@@ -1,0 +1,4 @@
+-56454210032311316797946498748
+34664864678464621214565587864
+-21789345353846695583380910884
+The algorithm works for one positive and one negative unbounded integer with equal length. 
